@@ -1,0 +1,5 @@
+print ("Make a simple program with output your Nim and Name")
+Nama = str(input("Masukkan nama = "))
+Nim = int(input("Masukkan nim = "))
+print (Nama)
+print (Nim)
